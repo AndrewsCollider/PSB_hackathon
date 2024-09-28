@@ -32,13 +32,13 @@
 
 ## Обработка данных
 <p align="center">
-<img src="https://github.com/AndrewsCollider/PSB_hackathon/blob/main/Team_logo.png" width="250" height="250" class="center">
+<img src="https://github.com/AndrewsCollider/PSB_hackathon/blob/main/preprocessing.png" width="500" height="250" class="center">
 </p>
 
 
 ## Построение моделей
 <p align="center">
-<img src="https://github.com/AndrewsCollider/PSB_hackathon/blob/main/models.png" width="250" height="250" class="center">
+<img src="https://github.com/AndrewsCollider/PSB_hackathon/blob/main/models.png" width="500" height="250" class="center">
 </p>
 
 В ноутбуки не были включены feature selection и тюнинг через optuna, т.к. они имеют частный характер и не несут познавательной ценности =)
